@@ -1,4 +1,4 @@
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZyonDerick&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/ZyonDerick"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyonDerick-code&layout=compact&theme=buefy&hide_border=true" /></a>
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZyonDerick&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/ZyonDerick"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZyonDerick&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Zyon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
